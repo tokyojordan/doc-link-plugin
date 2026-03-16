@@ -5,8 +5,7 @@
   "description": "Copy Appian documentation URLs and convert version numbers to 'latest'",
   "permissions": [
     "activeTab",
-    "clipboardWrite",
-    "scripting"
+    "clipboardWrite"
   ],
   "action": {
     "default_popup": "popup.html",
